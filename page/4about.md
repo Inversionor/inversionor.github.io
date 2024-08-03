@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profile
+title: Personal Profile
 permalink: /about/
 icon: heart
 type: page
@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## 关于我
-你好！我是Inversionor，一个热爱编程和技术的开发者。
+你好！我是Inversionor，一个热爱编程和技术的开发者，希望未来能从事后端开发相关工作
 
 ### 个人信息
 - **昵称**: Inversionor
