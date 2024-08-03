@@ -1,5 +1,18 @@
-{% if site.duoshuo_shortname %}
+<!-- 增加评论功能 -->
+<div class="post-footer-item comment" style="padding: 20px; margin-top: 15px;margin-bottom: 15px;">
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<!-- <h2>评论</h2> -->
+<div id="vcomments"></div>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'eN1eLLBdQGpBYvpfxD48DfII-gzGzoHsz',
+        appKey: 'iJJLiqySthPgmJ5DvfdF55KS'
+    })
+</script>
+</div>
 
+{% if site.duoshuo_shortname %}
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="{{ site.url }}{{ page.url }}" data-title="{{page.title}}" data-url="{{ site.url }}{{ page.url }}"></div>
 <!-- 多说评论框 end -->
