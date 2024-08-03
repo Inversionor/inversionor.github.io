@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 icon: heart
 type: page
@@ -23,9 +23,9 @@ type: page
 - [GitHub](https://github.com/Inversionor)
 
 ### 技能
-- 编程语言: Python, JavaScript, Ruby
+- 编程语言: Python, Java, Golang.
 - 框架: Spring Boot, Spring MVC
-- 工具: Git, Docker, Kubernetes, IDEA, PyCharm
+- 工具: Git, Docker, Kubernetes, Linux, IDEA...
 
 ### 兴趣爱好
 - 编程语言: Java, Python, Golang
@@ -49,7 +49,7 @@ type: page
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \| [Ling](http://linglinyp.com/)
+[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \| [Ling](http://linglinyp.com/)\| [Lundrea](https://ymiir.asia/)
 
 ## Comments
 
