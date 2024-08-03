@@ -7,7 +7,7 @@
 
 # Site settings
 title: Inversion
-brief-intro: Front-end Dev Engineer
+brief-intro: 后端成长日志
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inversionor.github.io" # the base hostname & protocol for your site
 
