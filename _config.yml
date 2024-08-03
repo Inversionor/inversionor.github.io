@@ -14,16 +14,13 @@ url: "https://inversionor.github.io" # the base hostname & protocol for your sit
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username:
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
+github_username:  Inversionor
+email: l932874230@163.com
+weibo_username: inversionor
+zhihu_username: inversionor
 linkedIn_username: gaohaoyang
-dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 规格严格，功夫到家！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
