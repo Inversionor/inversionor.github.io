@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Profile
 permalink: /about/
 icon: heart
 type: page
