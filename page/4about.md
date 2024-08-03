@@ -24,8 +24,7 @@ type: page
 
 ### 技能
 - 编程语言: Python, Java, Golang.
-- 框架: Spring Boot, Spring MVC
-- 工具: Git, Docker, Kubernetes, Linux, IDEA...
+- 工具: Spingboot,Git, Docker, Kubernetes, Linux, IDEA...
 
 ### 兴趣爱好
 - 编程语言: Java, Python, Golang
